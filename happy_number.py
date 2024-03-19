@@ -1,6 +1,6 @@
 
 def happy_number():
-    pass
+    print("YOUR CODE GOES HERE!")
 
 
 if __name__ == "__main__":
